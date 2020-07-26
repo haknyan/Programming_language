@@ -42,4 +42,4 @@ print('Q6:', a)
 a = ['Life', 'is', 'too', 'short']
 print('Q7:', " ".join(a))
 
-#Q8. 부터
+#Q8. 부터 하기
